@@ -2,6 +2,9 @@
 
 A simple desktop calculator application built using **Java Swing** with a clean user interface.
 
+![GUI Calculator](https://github.com/user-attachments/assets/c16f2d68-e2a7-4948-93c4-6dbf8be58c72)
+
+
 ## Features
 - **Basic arithmetic operations:**
   - Addition
